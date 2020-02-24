@@ -1,0 +1,11 @@
+D:\program\Github\C-Sharp\OOP\FightingClub\FightingClub\bin\Debug\netcoreapp3.0\FightingClub.exe
+D:\program\Github\C-Sharp\OOP\FightingClub\FightingClub\bin\Debug\netcoreapp3.0\FightingClub.deps.json
+D:\program\Github\C-Sharp\OOP\FightingClub\FightingClub\bin\Debug\netcoreapp3.0\FightingClub.runtimeconfig.json
+D:\program\Github\C-Sharp\OOP\FightingClub\FightingClub\bin\Debug\netcoreapp3.0\FightingClub.runtimeconfig.dev.json
+D:\program\Github\C-Sharp\OOP\FightingClub\FightingClub\bin\Debug\netcoreapp3.0\FightingClub.dll
+D:\program\Github\C-Sharp\OOP\FightingClub\FightingClub\bin\Debug\netcoreapp3.0\FightingClub.pdb
+D:\program\Github\C-Sharp\OOP\FightingClub\FightingClub\obj\Debug\netcoreapp3.0\FightingClub.csprojAssemblyReference.cache
+D:\program\Github\C-Sharp\OOP\FightingClub\FightingClub\obj\Debug\netcoreapp3.0\FightingClub.AssemblyInfoInputs.cache
+D:\program\Github\C-Sharp\OOP\FightingClub\FightingClub\obj\Debug\netcoreapp3.0\FightingClub.AssemblyInfo.cs
+D:\program\Github\C-Sharp\OOP\FightingClub\FightingClub\obj\Debug\netcoreapp3.0\FightingClub.dll
+D:\program\Github\C-Sharp\OOP\FightingClub\FightingClub\obj\Debug\netcoreapp3.0\FightingClub.pdb
