@@ -5,6 +5,7 @@
 
     using Models;
     using Contracts;
+
     public class Startup
     {
         static void Main(string[] args)
