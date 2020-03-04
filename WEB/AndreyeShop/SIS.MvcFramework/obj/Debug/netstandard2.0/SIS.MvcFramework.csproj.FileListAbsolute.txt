@@ -1,0 +1,11 @@
+C:\Users\LEGION\Desktop\Web\AndreyeSecond\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.deps.json
+C:\Users\LEGION\Desktop\Web\AndreyeSecond\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.dll
+C:\Users\LEGION\Desktop\Web\AndreyeSecond\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.pdb
+C:\Users\LEGION\Desktop\Web\AndreyeSecond\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Users\LEGION\Desktop\Web\AndreyeSecond\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+C:\Users\LEGION\Desktop\Web\AndreyeSecond\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csprojAssemblyReference.cache
+C:\Users\LEGION\Desktop\Web\AndreyeSecond\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfoInputs.cache
+C:\Users\LEGION\Desktop\Web\AndreyeSecond\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfo.cs
+C:\Users\LEGION\Desktop\Web\AndreyeSecond\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CopyComplete
+C:\Users\LEGION\Desktop\Web\AndreyeSecond\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.dll
+C:\Users\LEGION\Desktop\Web\AndreyeSecond\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.pdb
